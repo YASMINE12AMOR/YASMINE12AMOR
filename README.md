@@ -6,18 +6,38 @@
 > Available from **October 2026** 🚀
 
 ---
+* 👂 My name is ...
+* 👩 Pronouns: ...
+* 🔭 I’m currently working on ...
+* 🌱 I’m currently learning ...
+* 🤝 I’m looking to collaborate on ...
+* 🤔 I’m looking for help with ...
+* 💬 Ask me about ...
+* 📫 How to reach me: ...
+* ❤️ I love ...
+* ⚡ Fun fact: ...
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 Highlights
 
-| 🎯 88% precision | 🛰️ 98% accuracy | 🏆 2nd prize |
+| 🎯 88% precision | 🏆 2nd prize |
 |---|---|---|
-| LLM scheduling agent (Orange Innovation) | Satellite CNN object detection | Talan Hackathon — stem cell ML project |
+| LLM scheduling agent (Orange Innovation) | Talan Hackathon — stem cell ML project |
 
 ---
 
 ## 🧠 What I do
 
-I design and ship AI-powered systems — from intelligent phone agents that book medical appointments, to agentic CV platforms and ML pipelines for stem cell research. I love combining cutting-edge models with clean engineering.
+I design and ship AI-powered systems , to agentic CV platforms and ML pipelines for stem cell research. I love combining cutting-edge models with clean engineering.
 
 ---
 

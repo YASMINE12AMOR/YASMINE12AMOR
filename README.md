@@ -192,31 +192,6 @@ Interactive analytics platform for real-time complex dataset visualization with 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=a78bfa&icon_color=60a5fa&text_color=94a3b8&ring_color=7c3aed" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=a78bfa&text_color=94a3b8&langs_count=8" height="150"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=YOUR_USERNAME&theme=tokyonight&column=7&margin-w=6&margin-h=6&no-bg=true&no-frame=true" height="130"/>
-</div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="Yasmine's contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg" width="100%">
-</picture>
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | Location | Period |

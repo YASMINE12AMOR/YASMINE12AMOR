@@ -120,6 +120,20 @@ OCR model extracting text from borderless tables in PDFs + NLP pipeline standard
 </td>
 <td width="50%">
 
+### 🛡️ ML Intrusion Detection System
+> *ESPRIT · Tunis, Tunisia — Nov–Dec 2023*
+ 
+Training and comparison of supervised & unsupervised ML models for malicious activity detection. Random Forest model achieved the best results across all tested classifiers.
+ 
+**98% success rate with Random Forest**
+ 
+`Python` `Scikit-learn` `Random Forest` `XGBoost` `KNN` `SVM` `KMeans` `GMM`
+ 
+</td>
+</tr>
+</table>
+
+
 ---
 
 ## 🛠️ Tech Stack

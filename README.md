@@ -18,17 +18,7 @@
 
 <br/>
 
-<div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│   Building intelligent systems that work in the real world  │
-│   — from medical voice agents to multi-agent pipelines      │
-│     & biomedical RAG systems                                │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 

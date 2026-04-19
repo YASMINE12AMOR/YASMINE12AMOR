@@ -120,17 +120,6 @@ OCR model extracting text from borderless tables in PDFs + NLP pipeline standard
 </td>
 <td width="50%">
 
-### 🔭 Data Observatory Dashboard
-> *Full-stack AI analytics platform*
-
-Interactive analytics platform for real-time complex dataset visualization with automated anomaly detection.
-
-`React` `D3.js` `FastAPI` `Python`
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🛠️ Tech Stack

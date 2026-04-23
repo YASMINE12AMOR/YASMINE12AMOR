@@ -25,7 +25,7 @@
 ```python
 class YasmineAmor:
     role       = "AI Engineer · Data Scientist · Software Engineer"
-    location   = "Rennes, France 🇫🇷"
+    location   = "France 🇫🇷"
     education  = "MSc Big Data & AI @ Sup De Vinci"
     currently  = "Agentic workflows & LLM integrations @ Groupe Rocher"
     available  = "October 1st, 2026 — open to opportunities 🟢"
